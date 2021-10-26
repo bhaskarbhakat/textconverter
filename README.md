@@ -1,19 +1,25 @@
 
 # Text Converter
 
-This online Text Converter allows you to change your text from UPPERCASE to lowercase, lowercase to UPPERCASE, and many more with a single click. If you don't know how to convert the case or capitalization of text in Word, Notepad or other word processing software, then this online tool is designed for you.
+This online Text Converter allows you to change your text from UPPERCASE to lowercase, lowercase to UPPERCASE, and many more with a single click. If you don't know how to convert the case or capitalization of text in Word, Notepad or other word processing software, Then this online tool is designed for you. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74848&size=16&center=true&lines=link)](https://text-converter-c615f.web.app/)
+
+
+
+
 
 ## Features
 
-- Light/dark mode toggle
 - Convert to uppercase
 - Convert to lower case
 - Remove extra spaces
 - Reverse your text
 - Copy to Clipboard
 - Cross platform (Mobile Compatibility)
+- Light/dark mode toggle
 
-  
+## UI
+![image](https://github.com/bhaskarbhakat/textconverter/blob/master/Screenshot%20(64).png)
   
 ## Why you should use?
 
@@ -22,16 +28,8 @@ This online Text Converter allows you to change your text from UPPERCASE to lowe
 - Free
 - No Fancy Features
 - No Adds
+
 ## Tech Stack
 
-React, Bootstrap
-
-  
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-  
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+React, React router dom, Bootstrap
     
